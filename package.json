@@ -1,0 +1,15 @@
+{
+  "name": "react-native-odd-or-even",
+  "version": "1.0.0",
+  "description": "\"check odd or even\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "check",
+    "numbers"
+  ],
+  "author": "varsni",
+  "license": "ISC"
+}
